@@ -1,0 +1,44 @@
+body{
+    padding: 10px 20px;
+}
+
+/* header (for common tags css are applied ) */
+#info>h1{
+    font-size: 40px;
+    color: purple;
+    text-align: center;
+}
+#info>p{
+    font-size: 20px;
+    text-align: center;
+}
+hr{
+    border-top: 1px solid purple;
+}
+h2{
+    font-size: 25px;
+    color: purple;
+}
+p{
+    font-size: 20px;
+}
+
+
+/* Work Experience and Skills */
+h3{
+    font-size: 20px;
+}
+.skills{
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+
+/* Education */
+.course{
+   font-size: 20px;
+   font-weight: bold;
+}
+
+
+
